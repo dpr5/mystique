@@ -1,0 +1,86 @@
+.header
+{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+
+}
+
+li a {
+    display: inline;
+    padding: 10px 5px;
+    text-decoration: none;
+}
+
+.project_code
+{
+    background-color: #e4e4e4;
+    width: 250px;
+    height: 250px;
+}
+
+.hero_boxes
+{
+    background-color: #eeeeee;
+    width: 250px;
+    height: 250px;
+    display:inline;
+}
+
+.hero_open_projects
+{
+    background-color: #c2252c;
+}
+
+.hero_hours_to_do
+{
+    background-color: #ffffff;
+    width: 250px;
+    height: 250px;
+}
+
+.hero_events
+{
+    background-color: #1fa8f6;
+}
+
+#hero_events
+{
+    color:white;
+}
+
+.hero_boxes #h4{
+    color:white;
+}
+
+#report_box1
+{
+    color:white;
+    background-color: #1fa8f6;
+    width: 250px;
+    height: 250px;
+}
+
+#report_box2
+{
+    color:white;
+    background-color: #86cbf2;
+    width: 250px;
+    height: 250px;
+}
+
+#report_box3
+{
+    color:white;
+    background-color: #1fa8f6;
+    width: 250px;
+    height: 250px;
+}
+
+#report_box4
+{
+    color:white;
+    background-color: #86cbf2;
+    width: 250px;
+    height: 250px;
+}
