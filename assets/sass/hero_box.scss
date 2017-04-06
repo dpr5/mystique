@@ -1,0 +1,87 @@
+.flex{
+  background: #ffffff;
+  margin: 15px;
+  display: -webkit-flex;
+}
+
+.hero_section{
+  flex-direction: row;
+  display: flex;
+  padding-bottom: 20px;
+  .block{
+    height:500px;
+    width:25%;
+    &.padded{
+      margin-bottom: 50px;
+      margin-left: 50px;
+    }
+  }
+}
+
+
+
+#hero_open_projects
+{
+  background-color: #c2252c;
+  color: white;
+  text-align: center;
+  flex-direction: row;
+
+}
+
+#hero_hours_to_do
+{
+  background-color: #ffffff;
+  flex-direction: row;
+  p:first-child{
+    color:#c2252c;
+    text-align: center;
+    margin-top: 200px;
+    font-size: 100px;
+  p#hours{
+    color:red;
+    text-align: center;
+        }
+    }
+}
+
+#hero_events
+{
+  background-color: #1fa8f6;
+  text-align: center;
+  font-size: 40px;
+  flex-direction: row;
+  p{
+    text-align: center;
+    padding-top: 150px;
+  }
+}
+
+#drop_down{
+  float:left;
+}
+
+#project_amount{
+  font-size: 60px;
+}
+
+#open_project{
+
+}
+
+#projects{
+  background-color: #55575b;
+  color:white;
+  text-align: center;
+  border-bottom-right-radius:10px;
+  max-height: 500px;
+
+    h3{
+      font-size: 52px;
+    }
+  p{
+    font-size:40px;
+    font-family: Myriad Pro;
+  }
+}
+

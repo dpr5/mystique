@@ -1,0 +1,37 @@
+.flex{
+  justify-content: center;
+  flex-direction: row;
+}
+
+
+header {
+  background:#F1F1F1;
+  nav#nav-primary {
+    ul.flex {
+      li {
+        background:#ffffff;
+        justify-content: center;
+        flex-direction: row;
+        padding-right:160px;
+        padding-top:20px;
+        padding-bottom: 20px;
+        float: right;
+        list-style: none;
+        display: inline;
+        font-size:30px;
+      }
+    }
+  }
+}
+
+body{
+  background-color: #eeeeee;
+}
+
+
+#logo_image {
+background-color: #20a8f7;
+  width: 30px;
+  left: 10px;
+  width: 200px;
+  }

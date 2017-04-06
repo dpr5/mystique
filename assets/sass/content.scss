@@ -1,0 +1,50 @@
+.project_section{
+
+  max-height: 730px;
+  flex-direction: row;
+}
+
+
+.content_header li{
+  flex-direction: row;
+}
+
+
+#list{
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding-left: 500px;
+  padding-bottom: 30px;
+}
+
+#content{
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  background-color: white;
+}
+
+table {
+  border-spacing: 10px;
+  padding-top: 150px;
+  padding-bottom: 150px;
+}
+
+th{
+  background-color: #e4e4e4;
+}
+
+td {
+  padding-top: .5em;
+  padding-bottom: .5em;
+  background-color: white;
+  text-align: center;
+}
+
+.project_name{
+  color:#20a8f7;
+}
+

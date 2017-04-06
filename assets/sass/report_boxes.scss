@@ -1,0 +1,82 @@
+.report_boxes{
+  flex-direction: row;
+  display: flex;
+  .block{
+    height:500px;
+    width:25%;
+    &.padded{
+      margin-top: 25px;
+      margin-left: 25px;
+    }
+  }
+}
+
+
+
+
+
+#report_box1
+{
+  color:white;
+  background-color: #1fa8f6;
+  width: 500px;
+  height: 500px;
+  text-align: center;
+  vertical-align: middle;
+}
+
+#report_box2
+{
+  color:white;
+  background-color: #86cbf2;
+  width: 500px;
+  height: 500px;
+  text-align: center;
+  vertical-align: middle;
+
+}
+
+#report_box3
+{
+  color:white;
+  background-color: #1fa8f6;
+  width: 500px;
+  height: 500px;
+  text-align: center;
+  vertical-align: middle;
+
+}
+
+#report_box4
+{
+  color:white;
+  background-color: #86cbf2;
+  width: 500px;
+  height: 500px;
+  text-align: center;
+  vertical-align: middle;
+}
+
+#custom_text{
+  font-size: 51px;
+  margin-left: 30px;
+}
+
+.report{
+  font-size: 30px;
+
+}
+
+/*
+.flex{
+  justify-content: center;
+  flex-direction: row;  #report_box1 #report_box2 #report_box3 #report_box4{
+    color:white;
+    background-color: #86cbf2;
+    width: 250px;
+    height: 250px;
+    padding: 50px;
+  }
+}
+
+*/
